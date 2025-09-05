@@ -17,7 +17,20 @@ logo upload, and PDF export** for seamless billing management.
 - **Draft & Save Functionality** – Save unfinished invoices and continue editing later.  
 - **Responsive UI** – Clean, mobile-friendly interface built with React (Vite) and Bootstrap.  
 - **Data Persistence** – Reliable storage with MySQL & Spring Data JPA.  
-- **Scalable APIs** – RESTful backend built with Spring Boot for smooth integration.  
+- **Scalable APIs** – RESTful backend built with Spring Boot for smooth integration.
+
+
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Bootstrap, Axios  
+- **Backend:** Spring Framework, Spring Boot, Spring Data JPA, Hibernate
+- **Database:** MySQL  
+- **PDF & Export:** jsPDF, html2canvas  
+- **Authentication:** Clerk (JWT, Webhooks)  
+- **Version Control:** Git & GitHub
+
+ 
 
 
 
