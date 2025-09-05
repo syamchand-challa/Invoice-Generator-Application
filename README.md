@@ -76,7 +76,7 @@ logo upload, and PDF export** for seamless billing management.
 
 ## ⚙️ Installation & Setup
 
-This section ensures that **any recruiter or developer can run your project locally** with ease, demonstrating reproducibility and full-stack expertise.
+This section helps anyone set up and run the project locally with ease, ensuring reproducibility and showcasing full-stack expertise.
 
 ---
 
