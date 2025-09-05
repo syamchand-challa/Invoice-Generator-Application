@@ -33,7 +33,7 @@ logo upload, and PDF export** for seamless billing management.
 
 ## 📸 Project Screenshots & Demo
 
-### Dashboard 
+### 🏠 Home Page 
 
 <img width="1308" height="624" alt="DashBoardPage1" src="https://github.com/user-attachments/assets/1c2c3c3c-47cb-4dbe-9cac-98f38af6961a" />
 
@@ -57,7 +57,7 @@ logo upload, and PDF export** for seamless billing management.
 
 <img width="1343" height="526" alt="DashBoardPage6" src="https://github.com/user-attachments/assets/1a132193-6bf8-436a-ab2c-73aa7b3936dd" />
 
-### 📝 Create Invoice
+### 📊 Dashboard & ### 📝 Create Invoice
 
 <img width="1271" height="609" alt="DashBoardPage7" src="https://github.com/user-attachments/assets/49373725-3061-4b79-9686-e381af729446" />
 
