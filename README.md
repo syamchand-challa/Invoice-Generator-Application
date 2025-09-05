@@ -1,6 +1,7 @@
  🧾 Invoice Generator Application  – Smart Billing & PDF Management 
 
 
+
 A Full Stack Invoice Generator Application developed using Spring Boot, React, MySQL, Cloudinary, and Clerk Authentication (JWT).  
 It allows users to **create, update, delete, save, and download invoices**, with features like **secure authentication  
 logo upload, and PDF export** for seamless billing management.
@@ -64,6 +65,14 @@ logo upload, and PDF export** for seamless billing management.
  📄 Generate Invoice
 
 <img width="1276" height="629" alt="DashBoardPage8" src="https://github.com/user-attachments/assets/a8463f8f-6f64-4c11-b5a2-3bd421d0a7f2" />
+
+ ⚙️ Installation & Setup
+
+1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/invoice-generator.git
+cd invoice-generator
+
 
 <img width="1250" height="631" alt="DashBoardPage9" src="https://github.com/user-attachments/assets/53d39823-bbbc-49fe-bab6-1d9ce9f443ee" />
 
