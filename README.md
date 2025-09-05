@@ -72,12 +72,7 @@ logo upload, and PDF export** for seamless billing management.
 
 
 
- ⚙️ Installation & Setup
 
-1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/invoice-generator.git
-cd invoice-generator
 
 
 <img width="1250" height="631" alt="DashBoardPage9" src="https://github.com/user-attachments/assets/53d39823-bbbc-49fe-bab6-1d9ce9f443ee" />
