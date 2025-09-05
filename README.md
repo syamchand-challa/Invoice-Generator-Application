@@ -33,6 +33,10 @@ logo upload, and PDF export** for seamless billing management.
 
 ## 📸 Project Screenshots & Demo
 
+### Dashboard 
+
+<img width="1308" height="624" alt="DashBoardPage1" src="https://github.com/user-attachments/assets/1c2c3c3c-47cb-4dbe-9cac-98f38af6961a" />
+
 
  
 
