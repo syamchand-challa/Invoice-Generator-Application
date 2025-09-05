@@ -1,1 +1,1 @@
-# 🧾 Invoice Generator – Smart Billing & PDF Management | Spring Boot + React
+# 🧾 Invoice Generator Application  – Smart Billing & PDF Management 
