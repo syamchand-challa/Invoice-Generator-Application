@@ -73,3 +73,60 @@ logo upload, and PDF export** for seamless billing management.
 <img width="706" height="634" alt="Page10" src="https://github.com/user-attachments/assets/5bc01eca-f6a5-41fb-ac44-bf98faae2136" />
 
 
+
+## ⚙️ Installation & Setup
+
+This section ensures that **any recruiter or developer can run your project locally** with ease, demonstrating reproducibility and full-stack expertise.
+
+---
+
+### 1 Clone the Repository
+```bash
+git clone https://github.com/your-username/invoice-generator.git
+cd invoice-generator
+
+
+### 2️⃣ Backend Setup (Spring Boot)
+
+Follow these steps to set up and run the backend server:
+
+1. Navigate to the backend folder
+cd backend
+
+2.Build the project using Maven
+mvn clean install
+
+3.Configure the database in src/main/resources/application.properties
+
+spring.datasource.url=jdbc:mysql://localhost:3306/invoice_generator
+spring.datasource.username=root
+spring.datasource.password=YourPassword
+spring.jpa.hibernate.ddl-auto=update
+
+4.Start the Spring Boot server
+mvn spring-boot:run
+The backend server will run on: http://localhost:8080 (default Spring Boot port)
+
+The MySQL is running locally and the database invoice_generator
+
+
+### 3️⃣ Frontend Setup (React)
+
+Follow these steps to set up and run the React frontend:
+
+1. Navigate to the frontend folder
+cd ../frontend
+
+2.Install dependencies
+npm install
+
+3.Start the React development server
+npm run dev
+
+4.Open your browser and navigate to
+http://localhost:3000
+
+The backend server is running on http://localhost:8080 so frontend can connect via APIs.
+
+
+
