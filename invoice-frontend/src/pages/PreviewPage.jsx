@@ -2,13 +2,13 @@ import React, { useState, useRef, useEffect, useContext } from "react";
 import { templates } from "../assets/assets";
 import { AppContext } from "../context/AppContext";
 import InvoicePreview from "../components/InvoicePreview";
-import { saveInvoice } from "../service/invoiceService.js";
+import { saveInvoice } from "../service/InvoiceService.js";
 import toast from "react-hot-toast";
 import { Loader2 } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import html2canvas from "html2canvas";
 import { uploadInvoiceThumbnail } from "../service/cloudinaryService.js";
-import { deleteInvoice } from "../service/invoiceService.js";
+import { deleteInvoice } from "../service/InvoiceService.js";
 import { generatePdfFromElement } from "../util/pdfUtils";
 import { useAuth, useUser } from "@clerk/clerk-react";
 

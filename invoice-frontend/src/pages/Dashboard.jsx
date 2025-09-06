@@ -1,6 +1,7 @@
 import React, { useContext, useEffect, useState } from "react";
-import { getAllInvoices } from "../service/invoiceService";
+import { getAllInvoices } from "../service/InvoiceService";
 import { AppContext, initialInvoiceData } from "../context/AppContext.jsx";
+import { getInvoices } from "../service/InvoiceService";
 import { Plus } from "lucide-react";
 import toast from "react-hot-toast";
 import { formatDate } from "../util/formatInvoiceData.js";
