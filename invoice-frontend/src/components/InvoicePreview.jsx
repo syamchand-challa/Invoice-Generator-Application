@@ -1,7 +1,8 @@
 import { forwardRef } from "react";
 import { formatInvoiceData } from "../util/formatInvoiceData.js";
 import Template1 from "../templates/Template1/Template1.jsx";
-import { templateComponents } from "../util/invoiceTemplates.js";
+import { templateComponents } from "../util/InvoiceTemplates.js";
+
 
 
 const InvoicePreview = forwardRef(({ invoiceData, template }, ref) => {
