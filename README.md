@@ -12,9 +12,7 @@ logo upload, and PDF export** for seamless billing management.
 # Invoice Generator Application  
 A professional web application to generate, manage, and download invoices with authentication and persistence.  
 
-## 🌐 Live Demo  
-[Open App](invoice-generator-appllication.netlify.app)
-
+🌐 **Live Demo:** [https://invoice-generator-appllication.netlify.app](https://invoice-generator-appllication.netlify.app)
 
 
 
@@ -137,6 +135,13 @@ npm run dev
 http://localhost:3000
 
 The backend server is running on http://localhost:8080 so frontend can connect via APIs.
+
+
+---
+## 👨‍💻 Author
+Developed with  by ** Syam Chand**  
+🔗 [LinkedIn](www.linkedin.com/in/syamchand-challa) | 📧 syamchandchalla22.gmail.com
+
 
 
 
