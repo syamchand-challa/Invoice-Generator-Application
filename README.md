@@ -10,7 +10,6 @@ logo upload, and PDF export** for seamless billing management.
 
 
 # Invoice Generator Application  
-
 A professional web application to generate, manage, and download invoices with authentication and persistence.  
 
 ## 🌐 Live Demo  
