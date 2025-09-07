@@ -18,6 +18,7 @@ A professional web application to generate, manage, and download invoices with a
 
 
 
+
 ## ✨ Features
 
 - **Secure Authentication** – User registration, login, and session management with Clerk (JWT).  
